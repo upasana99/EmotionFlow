@@ -1,0 +1,114 @@
+F	Next.	ang
+M	Yes, me. Okay, okay here we go.	fru
+F	My window is open.	ang
+M	Okay, so filled out all these forms  --	fru
+M	and I have This form of ID here so...	fru
+M	Yes, Jones.	neu
+F	What are you... what's...What are you applying for?	fru
+M	I'm just applying for another ID.	fru
+M	Yes.  I'm supposed to have three forms of ID for this.  It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another...	fru
+M	I have it right here, yes.	fru
+F	No, I need your ID to give you a second ID.	ang
+F	It's really simple if you have a problem with it... Maybe you should--	ang
+M	But that's...	fru
+M	That's why I'm here, that's why I was waiting in this line.  I need to get another form of ID.	fru
+M	No, I don't have a passport.	neu
+F	You have a birth certificate?	fru
+M	I don't where it is though, I don't have with me.  Can I get it from somewhere?  I mean...	fru
+F	What do you expect me to do?	ang
+M	I probably have to go wait another line to get my birth certificate don't I?	fru
+F	Probably.	ang
+M	You're very helpful.  What's your name?	fru
+M	So can you help me or not?	fru
+F	I am..I don't..I don't understand what you want.  A driver's license or a California ID.	fru
+M	Okay. [BREATHING]	fru
+M	I need California ID.	fru
+M	On top of these other two forms of ID which I already have.	fru
+M	No, I don't have driver's license.	fru
+M	Did you even look at the form?  I filled it out all these questions--	ang
+F	Don't raise your voice with me.	ang
+F	Don't talk to me like I'm a child.	ang
+M	Okay.	fru
+F	Do you know how long I've been working here? How long have you lived in California?	ang
+M	If it makes you stop acting like a child.	fru
+F	Maybe you never been to the D.M.V. before, maybe you should get back in line.  You know what?  sit in line again and if you get my number ask for different one.	ang
+M	I am not...I'm not getting to back that line.	ang
+M	Okay, okay let's keep our voices down, okay?  I didn't come here to get in yelling match.	fru
+M	I did not come in here to get in a yelling match with you, all right?	fru
+F	Uh huh.  I didn't come here get in yelling match either.	neu
+M	Just try and help me.	fru
+F	They don't pay me enough to deal people like you.	neu
+M	Why?	ang
+M	Why, because I'm sick of talking to you.	ang
+M	'Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.	ang
+M	Oh, no honey. And you're going to miss the Christmas card too. It's a shame. It's going to be a good, nice picture.	fru
+
+F	Now and always sweet.	hap
+M	I don't care then.	hap
+F	It had to happen sooner or later.	hap
+F	[BREATHING]	exc
+F	Oh. Behave exquisitely...	hap
+M	With perfect poise...	hap
+F	[LAUGHTER] I think I shall do a court curtsey.	hap
+M	Ah...	hap
+F	[LAUGHTER]	hap
+M	Ah...Strange...	hap
+F	Mmm...	hap
+M	Things that just ought to matter dreadfully, you know they just don't matter at all when one is happy, do they?	hap
+M	Darling, don't say that.	sad
+F	Oh, yes meaning just that.	hap
+M	Oh, dear god what is that all mean, dear god?	hap
+F	[LAUGHTER] Don't laugh at me I'm being serious.	hap
+M	You mustn't be so serious, darling, it just what they want.	hap
+M	Flippancy brings out the acid in their darn sweetness and light.	hap
+F	Mmhmm If I must laugh at everything, I must laugh at us too.	hap
+F	How long will it last, this ludicrous, overbearing love of ours?	hap
+M	We are figures of fun all right	hap
+M	Ahh...who knows.	hap
+F	Shall we always want to bicker and fight?	hap
+F	If one of us dies...	hap
+F	I think you're talking nonsense.	hap
+M	Let's pity the poor philosophers, huh?  Let's enjoy the party for as long as we can, okay?  Let's blow trumpets and squeakers and sit like small idiotic school children. [LAUGHTER]	exc
+M	Come here darling, kiss me	exc
+M	before your body rots and worms pop out of your eye sockets.	hap
+M	See, you know I don't care what you do.  You could paint yourself green and run naked to the Place Vendome.	hap
+M	Do you remember that row we did have in Venice?	hap
+F	Which particular one?	hap
+F	Oh, Charles.  That was his name Charles. He did wriggle so beautifully.	exc
+M	But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.	exc
+F	Cannes...mmhmm...	hap
+F	The manager came in he found us rolling about the floor.  [LAUGHTER]	hap
+M	I will never forget the look on his face.	hap
+F	Scratching and biting like panthers. [LAUGHTER] Oh...	hap
+M	oh...	hap
+F	Utterly, utterly ridiculous.	hap
+F	oh...[LAUGHTER]	hap
+M	We were very much younger then.	hap
+F	Very much sillier.	hap
+F	Oh you knew there was nothing in that.	exc
+
+F	It's almost time for me to go.	sad
+F	There's nothing I can do.  I mean, the government you know--	sad
+M	What--what're we gonna do here?  I can't--I can't do this by myself.  I--	fru
+F	You're gonna have to.  I mean, you're a great father.  You can do it.  I know you can.	sad
+M	But, I'm--I'm nothing--I'm nothing without you here.  Maybe we can--we can get out of this somehow.	fru
+F	I don't think so.	sad
+M	Well, come on.  You've gotta think of something.  A year--a year away, it's gonna tear us apart.  I don't even--I don't even wanna think about it.  I mean, I don't even know if I'll be able to get in touch with you or--	fru
+F	Well, we can do the best we can and-and, with um, you know like wireless internet these days--I think that we could-- Talk every once in awhile.	sad
+F	You could send me pictures.	sad
+M	What if--maybe--what if, uh, we went somewhere over there?  I don't--I don't know--I--I need to figure something out for this because--	fru
+F	Their not gonna let you.  You have to stay home and I have to go.  I mean, that's all--	sad
+F	and--I mean, my daughter--I don't want to put her in danger.  You know?  She has to stay.	sad
+M	This is gonna be a--a crucial yet--she's--she's growing up.  She's gonna need you.	fru
+F	I know, but, she needs to be safe more.  She needs to be around kids her age--own age.  She needs to be able to play on the streets and--	sad
+M	But she's--you're not gonna--you're not gonna be here for--for her first words.  For her first steps.  I mean--it's something that you're supposed to be here for that--	sad
+F	You can just remember it for me.	sad
+M	I don't know--I don't know--I don't know how--I don't know how this could even be possible for you--I--if I was--	fru
+F	Well, I need--I need you to be able to do this for me 'cause I can't do anything about it.	sad
+F	I mean, it's just as hard for me, but--I know that we can do it, you know	sad
+M	I mean, you just get to--go off and do your thing.  I mean, yeah, we're both--I don't know--it's bad for both of us, but--	fru
+M	...it would be so much better if we can--if we could stay together somehow.  You know--we could--we could do this together.	fru
+F	I don't want you in danger.  And I don't want her in danger.	sad
+F	I have no choice. There's nothing I can do.	sad
+M	All right.	sad
+
